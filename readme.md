@@ -28,4 +28,4 @@ npm install
 npm run dev
 ```
 
-You should get the visualization running in your favourite folder.
+You should get the visualization running in your favourite browser.
